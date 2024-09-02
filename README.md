@@ -1,4 +1,4 @@
-# Australia-s-Climate-Chronicles-A-Visual-Exploration
+# Australia's Climate Chronicles: A Visual Exploration
 
 ## Overview
 
@@ -10,6 +10,7 @@ This project provides an interactive visualisation of Australia's temperatures a
 - **Timeline Slider**: View temperature changes over time with a dynamic timeline slider.
 - **Color Gradient Legend**: Understand temperature ranges with a color gradient legend.
 - **Zoom Controls**: Zoom in and out of specific regions for detailed exploration.
+- **Cities Contrast**: Compare temperature trends between two selected cities.
 
 ## Technologies Used
 
@@ -25,8 +26,8 @@ This project provides an interactive visualisation of Australia's temperatures a
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/kelvinlimwan/Australia-s-Climate-Chronicles-A-Visual-Exploration.git
-   cd Australia-s-Climate-Chronicles-A-Visual-Exploration
+   git clone https://github.com/kelvinlim3/Australia-Climate-Chronicles-A-Visual-Exploration.git
+   cd Australia-Climate-Chronicles-A-Visual-Exploration
    ```
 
 2. **Open the Application**
@@ -42,7 +43,7 @@ This project provides an interactive visualisation of Australia's temperatures a
 
 ## Playground
 
-The project is also hosted on GitHub Pages. You can view it live [here](https://kelvinlimwan.github.io/Australia-s-Climate-Chronicles-A-Visual-Exploration/)
+The project is also hosted on GitHub Pages. You can view it live [here](https://kelvinlim3.github.io/Australia-Climate-Chronicles-A-Visual-Exploration/)
 
 ## Contributing
 
@@ -56,5 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 - **D3.js**: For the powerful data visualisation capabilities.
 - **GitHub Pages**: For hosting the web application.
+- **Bureau of Meteorology**: For the publicly available raw temperature data.
+- **Ferocia**: For the publicly available Australian regional boundaries.
 
 For any questions or issues, please contact kelvinlimwan@gmail.com.
