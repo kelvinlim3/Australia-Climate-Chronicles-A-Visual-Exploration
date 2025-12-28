@@ -26,4 +26,4 @@ This project provides an interactive visualisation of Australia's temperatures a
 
 ## Playground
 
-The project is also hosted on GitHub Pages. You can view it live [here](https://kelvinlim3.github.io/Australia-Climate-Chronicles-A-Visual-Exploration/)
+The project is also hosted live [here](https://kelvinlim3.github.io/Australia-Climate-Chronicles-A-Visual-Exploration/)
